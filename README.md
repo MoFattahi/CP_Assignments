@@ -1,2 +1,2 @@
 # CP_Assignments
-Assignments and projects of Fundamentals of computer programming course at KNTU - Spring 2020
+Assignments and projects of computer programming fundamentals course at KNTU - Spring 2020.
